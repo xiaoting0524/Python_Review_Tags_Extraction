@@ -1,4 +1,4 @@
-## CMPE 255 Group Project
+## CMPE 255 Spring 2019 Group Project
 
 ### Yelp Review Tags Extraction
 In this project, we try to extract and cluster meaningful tags from a Yelp's restaurant based on this restaurant's all reviews. We use POS rules to extract meaningful tags and train word embeddings based on all the reviews and then we apply clustering algorithms such as DBSCAN and K-Medoid to cluster all the tags.
