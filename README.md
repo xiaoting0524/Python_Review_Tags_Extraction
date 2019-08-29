@@ -10,8 +10,6 @@ In this project, we try to extract and cluster meaningful tags from a Yelp's res
 
 ### Contents
 * [Final Report](https://github.com/xiaoting0524/Python_Review_Tags_Extraction/blob/master/cmpe_255_group_project_report_team9.pdf)
-* [Final Slides]
-(https://github.com/xiaoting0524/Python_Review_Tags_Extraction/blob/master/cmpe_255_group_project_slides_team9.pdf)
-* [Personal Code]
-(https://github.com/xiaoting0524/Python_Review_Tags_Extraction/blob/master/xiaoting_jin.ipynb)
+* [Final Slides](https://github.com/xiaoting0524/Python_Review_Tags_Extraction/blob/master/cmpe_255_group_project_slides_team9.pdf)
+* [Personal Code](https://github.com/xiaoting0524/Python_Review_Tags_Extraction/blob/master/xiaoting_jin.ipynb)
 * [Dataset from Yelp](https://www.yelp.com/dataset/documentation/main)
